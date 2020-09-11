@@ -28,7 +28,7 @@
     "helg": "0.0.2",
     "humanize-duration": "^3.10.0",
     "lodash": "^4.13.1",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.23.3",
     "pirate-speak": "^1.0.0",
     "request": "^2.75.0",
